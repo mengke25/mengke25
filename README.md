@@ -1,4 +1,4 @@
-👋 Hi, I’m @UIBEMengKe
+👋 Hi, I’m @mengke25
 👀 A phd student from University of international business and economics
 🌱 I’m currently learning World Economy
 💞️ Stata Matlab ＆ Python
