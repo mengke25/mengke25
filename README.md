@@ -1,5 +1,5 @@
 👋 Hi, I’m @mengke25
-👀 A PhD student from University of international business and economics  
+👀 A student from University of international business and economics  
 🌱 I’m currently learning World Economy  
 💞️ Stata & Matlab & Python & R  
 📫 Email：  allenmeng97@gmail.com;       uibemk@126.com;          202011022109@uibe.edu.cn;  
