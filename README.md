@@ -5,7 +5,7 @@
 📫 Email：  allenmeng97@gmail.com;       uibemk@126.com;          202011022109@uibe.edu.cn;  
 💻 BLOG: https://mengke25.github.io/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengke25)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengke25&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengke25&hide=Jupyter,html,JavaScript,TypeScript,CSS,C++,GLSL,Jupyter-Notebook)
 
 <!---
