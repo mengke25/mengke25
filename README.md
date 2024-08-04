@@ -11,16 +11,11 @@
 🌱 Majoring in World Economy;    <br />
 
 💞️ Stata & Matlab & Python & R;  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengke25&hide=ipynb,TypeScript,html,CSS,C++,GLSL,Notebook,TeX,SCSS&exclude_repo=mengke25.github.io,py_learning&layout=donut)  <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengke25&hide=ipynb,TypeScript,html,CSS,C++,GLSL,Notebook,TeX,SCSS&exclude_repo=mengke25.github.io,py_learning&layout=compact) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengke25&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------------------
-* Not a researcher in computer science.
-* Did't update the project regularly.
-* All my work is to make my work more convenient.
-* Better record my learning.
-* No special contribution.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengke25&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
