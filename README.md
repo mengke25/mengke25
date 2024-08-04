@@ -6,7 +6,7 @@
 
 📫 Email： [allenmeng97@gmail.com](mailto:allenmeng97@gmail.com);   <br />
 
-💻 BLOG:  [https://mengke25.github.io/](https://mengke25.github.io/) ;  <br />
+💻 BLOG:  [https://mengke25.github.io/](https://mengke25.github.io) ;  <br />
 
 🌱 Majoring in World Economy;    <br />
 
