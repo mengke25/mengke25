@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @mengke25（孟克）  <br />
 
-👀 A postgraduate student from UIBE  <br />
+👀 A postgraduate student from UIBE（对外经济贸易大学）  <br />
 
 📫 Email： [allenmeng97@gmail.com](mailto:allenmeng97@gmail.com);   <br />
 
